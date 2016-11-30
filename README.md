@@ -7,3 +7,6 @@ But for now it's just include 3 rooms(paths), with different scenes and "portals
 I'll make it better :D
 BTW, I'll made this open-sourced, and I'll publish it to Github, because I love the feeling of open-source.
 Hope you like it :)
+
+# Changelog
+v1.0 The initial version.
