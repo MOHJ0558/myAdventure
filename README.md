@@ -9,4 +9,4 @@ BTW, I'll made this open-sourced, and I'll publish it to Github, because I love 
 Hope you like it :)
 
 # Changelog
-v1.0 The initial version.
+__v1.0__ The initial version.
